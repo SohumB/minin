@@ -1,6 +1,6 @@
 {
   "name": "minion",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Mocha's `min` reporter with miscellaneous loading output removed and newlined, so that line-level programs can parse the output",
   "main": "minion.js",
   "scripts": {

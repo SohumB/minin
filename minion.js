@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var Base = require('mocha/lib/reporters/base');
+var Base = require('mocha').reporters.Base;
 
 /**
  * Expose `Minion`.

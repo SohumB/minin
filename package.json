@@ -1,8 +1,8 @@
 {
-  "name": "minion",
+  "name": "minin",
   "version": "0.0.1",
   "description": "Mocha's `min` reporter with miscellaneous loading output removed and newlined, so that line-level programs can parse the output",
-  "main": "minion.js",
+  "main": "minin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
